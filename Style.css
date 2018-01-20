@@ -1,0 +1,32 @@
+.menu {width:250px;}
+
+.menu ul {list-style:none;}
+
+.menu ul li a {background:#242221;
+color:#fff;
+font:14px verdana, arial;
+display:block;
+padding:20px 0px;
+text-decoration:none;
+text-align:center;}
+
+
+#MainPage {border-left:3px solid #CF9E1E;}
+
+
+#MainPage:hover {background:#CF9E1E;}
+
+#about {border-left:3px solid #247C9E;}
+
+#About:hover {background:#247C9E;}
+
+#Exam {border-left:3px solid #4A9E50;}
+
+#Exam:hover {background:#4A9E50;}
+
+#Nots {border-left:3px solid #B114BA;}
+
+#Nots:hover {background:#B114BA;}
+
+
+#MainPage, #About, #Exam, #Nots {transition-duration:0.3s;}
