@@ -1,5 +1,5 @@
 # css-education
-Let's we learn about CSS codes.
+Let's we learn CSS codes.
 ### We will use atom for learning CSS..
 
 This repository is part of the training of Css codes
