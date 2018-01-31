@@ -13,4 +13,4 @@ How to add Font-size
 How to add Outline
 
 Technical Aspects:
-Input - Place holder - Inline Block - Text transform - Background image.
+Input - Place holder - Inline Block - Text transform - Background image..
